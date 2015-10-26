@@ -7,11 +7,11 @@ Gem::Specification.new do |spec|
   spec.name          = "renamer"
   spec.version       = Renamer::VERSION
   spec.authors       = ["Matt Gowie"]
-  spec.email         = ["mattg@tune.com"]
+  spec.email         = ["gowie.matt@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Rename video files.}
+  spec.description   = %q{Renames files for XBMC style format.}
+  spec.homepage      = "http://mattgowie.com"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
   # delete this section to allow pushing this gem to any host.
